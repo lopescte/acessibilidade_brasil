@@ -1,1 +1,1 @@
-# acessibilidade_brasil
+# Plugin para Wordpress visando adicionar uma barra fixa no topo do site contendo as funções voltadas para a acessibilidade padrão e-MAG.
